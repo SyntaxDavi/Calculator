@@ -17,12 +17,3 @@ Automatically clears the screen based on the operating system
 
 Technologies Used
 Language: C++
-
-Libraries:
-
-<iostream>
-<cstdlib>
-<iomanip>
-<chrono>
-<thread>
-
